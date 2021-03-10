@@ -1,8 +1,8 @@
 ---
 title: Chrome打开一个页面需要启动多少进程
 date: 2021/3/5 16:00
-tags: browser
-categories: browser
+tags: 浏览器
+categories: 浏览器
 ---
 
 # Chrome 打开一个页面需要启动多少进程

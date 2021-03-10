@@ -1,8 +1,8 @@
 ---
 title: Cookie 的 SameSite
 date: 2021/3/5 15:00
-tags: browser
-categories: browser
+tags: 浏览器
+categories: 浏览器
 ---
 
 # Cookie 的 SameSite 属性
