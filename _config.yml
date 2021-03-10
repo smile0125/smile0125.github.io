@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 小男孩
-subtitle: ""
-description: ""
-keywords:
+title: 小男孩的笔记
+subtitle: "前端笔记，技术分享"
+description: "前端技术分析，记录前端笔记，沉淀相关技术"
+keywords: "前端，javascript，浏览器， react"
 author: Edwin
 language: zh-CN
 timezone: ""
