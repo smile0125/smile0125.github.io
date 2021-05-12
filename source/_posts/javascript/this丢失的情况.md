@@ -2,7 +2,7 @@
 title: this丢失的情况
 date: 2021/4/12 10:38
 tags: this
-categories: javascript
+categories: javaScript
 ---
 
 1.函数名是别名

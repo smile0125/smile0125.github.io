@@ -2,7 +2,7 @@
 title: CommonJS与ES6 Module
 date: 2021/4/7 11:33
 tags: CommonJS
-categories: javascript
+categories: javaScript
 ---
 
 # CommonJS 与 ES6 Module
